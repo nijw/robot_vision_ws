@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chris/robot_vision_ws/devel/setup.sh

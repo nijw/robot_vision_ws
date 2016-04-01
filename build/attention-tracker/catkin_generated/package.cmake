@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "attention-tracker")
+set(attention-tracker_MAINTAINER "chris <chris@todo.todo>")
+set(attention-tracker_DEPRECATED "")
+set(attention-tracker_VERSION "0.0.0")
+set(attention-tracker_BUILD_DEPENDS )
+set(attention-tracker_RUN_DEPENDS )
+set(attention-tracker_BUILDTOOL_DEPENDS "catkin")

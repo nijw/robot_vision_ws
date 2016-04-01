@@ -1,0 +1,2 @@
+attention-tracker
+-DCATKIN_DEVEL_PREFIX=/home/chris/robot_vision_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chris/robot_vision_ws/install -G Unix Makefiles

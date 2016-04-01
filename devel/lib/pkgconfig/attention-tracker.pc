@@ -1,0 +1,8 @@
+prefix=/home/chris/robot_vision_ws/devel
+
+Name: attention-tracker
+Description: Description of attention-tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chris/robot_vision_ws/devel/lib 
+Requires: 
